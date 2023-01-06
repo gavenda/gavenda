@@ -3,7 +3,7 @@
 I'm gavenda.
 
 - 🔭 I’m currently working on minecraft spigot/paper plugins
-- 📫 How to reach me: [https://gavenda.work](https://gavenda.work)
+- 📫 How to reach me: [https://gavenda.dev](https://gavenda.dev)
 - 😄 Pronouns: Whatever you like
 - ⚡ Fun fact: I like to sleep and play a lot of osu! and minecraft.
 
