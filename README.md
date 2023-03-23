@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm gavenda.
+I'm Enda.
 
 - 🔭 I’m currently working on minecraft spigot/paper plugins
 - 📫 How to reach me: [https://gavenda.dev](https://gavenda.dev)
